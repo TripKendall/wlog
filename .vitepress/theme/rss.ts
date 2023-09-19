@@ -24,8 +24,8 @@ const OPTIONS: FeedOptions = {
     rss: DOMAIN + "/feed.xml",
   },
   author: AUTHOR,
-  image: "https://wlog.app/posts/horse.svg",
-  favicon: "https://wlog.app/posts/horse.svg",
+  image: "https://wlog.app/posts/logo.svg",
+  favicon: "https://wlog.app/posts/logo.svg",
 };
 
 const markdown = MarkdownIt({
