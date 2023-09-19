@@ -1,6 +1,6 @@
 <template>
   <footer>
-    [wL] v.0.0.3 by <a href="https://tr1pwyr.com" target="_blank" title="Tr1pwyr">
+    [wL] v.0.0.4 by <a href="https://tr1pwyr.com" target="_blank" title="Tr1pwyr">
       Tr1pwyr
     </a >Copyright &copy; {{ date }}
   </footer>
