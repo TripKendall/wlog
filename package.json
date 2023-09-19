@@ -1,6 +1,6 @@
 {
   "name": "wlog",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "tr1pwyr <tr1pwyr@tr1pwyr.com>",
   "license": "MIT",
@@ -16,7 +16,8 @@
   "scripts": {
     "dev": "vitepress dev ",
     "build": "vitepress build ",
-    "serve": "vitepress serve "
+    "serve": "vitepress serve ",
+    "preview": "vitepress preview --port 8083"
   },
   "dependencies": {
     "dayjs": "^1.11.7",
